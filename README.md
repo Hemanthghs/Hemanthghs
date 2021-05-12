@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemanthsai
-- 👀 I’m interested in Deep Learning, Web and Mobile Application Development
+- 👀 I’m interested in Deep Learning and Web Development
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 

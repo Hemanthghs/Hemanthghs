@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hemanthsai
-- 👀 I’m interested in Deep Learning, Web Development and DSA
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Deep Learning and Web Development Projects
+- 👋 Hi, I’m Hemanth Sai
+- 👀 I’m interested in Web Development, Blockchain and AI
+- 🌱 I’m currently learning Golang
 
 <!---
 Hemanthghs/Hemanthghs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
